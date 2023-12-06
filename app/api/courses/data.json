@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "맘스터치 [강원 화천]",
+    "description": "프랜차이즈 햄버거.",
+    "link": "https://www.traversymedia.com/Modern-React-Front-To-Back-Course",
+    "image": "/images/title1.png"
+  },
+  {
+    "id": 2,
+    "title": "리틀넥 청담 [서울 강남]",
+    "description": "브런치, 라자냐",
+    "link": "https://www.traversymedia.com/node-js-api-masterclass",
+    "image": "/images/22.jpg"
+  },
+  {
+    "id": 3,
+    "title": "이요이요스시 [서울 마포]",
+    "description": "스시오마카세, 롤",
+    "link": "https://map.naver.com/p/entry/place/31083209?c=14.00,0,0,0,dh",
+    "image": "/images/33.jpg"
+  },
+  {
+    "id": 4,
+    "title": "스미스가 좋아하는 한옥 [서울 종로]",
+    "description": "이탈리아음식, 파스타",
+    "link": "https://www.traversymedia.com/next-js-dev-to-deployment",
+    "image": "/images/44.jpg"
+  },
+  {
+    "id": 5,
+    "title": "핏제리아오 [충남 천안]",
+    "description": "피자, 화덕피자.",
+    "link": "https://www.traversymedia.com/50-Projects-In-50-Days",
+    "image": "/images/55.jpg"
+  },
+  {
+    "id": 6,
+    "title": "겁없는 토끼부엌 [경북 경주]",
+    "description": "스테이크, 파스타",
+    "link": "https://www.traversymedia.com/50-Projects-In-50-Days",
+    "image": "/images/66.jpg"
+  },
+  {
+    "id": 7,
+    "title": "봄의정원 [제주 애월]",
+    "description": "와인, 레스토랑",
+    "link": "https://www.traversymedia.com/50-Projects-In-50-Days",
+    "image": "/images/77.jpg"
+  },
+  {
+    "id": 8,
+    "title": "쥬벤쿠바 [경기 파주]",
+    "description": "쿠바음식, 샌드위치",
+    "link": "https://www.traversymedia.com/50-Projects-In-50-Days",
+    "image": "/images/88.jpg"
+  },
+  {
+    "id": 9,
+    "title": "부일갈매기 [경남 진주]",
+    "description": "돼지구이, 우설",
+    "link": "https://www.traversymedia.com/50-Projects-In-50-Days",
+    "image": "/images/99.jpg"
+  },
+  {
+    "id": 10,
+    "title": "압구정의 하루일과 [서울 강남]",
+    "description": "와인바, 와인",
+    "link": "https://www.traversymedia.com/50-Projects-In-50-Days",
+    "image": "/images/asas.jpg"
+  },
+  {
+    "id": 11,
+    "title": "애성회관 [인천 강화]",
+    "description": "곰탕, 설렁탕",
+    "link": "https://www.traversymedia.com/50-Projects-In-50-Days",
+    "image": "/images/1010.jpg"
+  },
+  {
+    "id": 12,
+    "title": "윤씨밀방 [강원 인제]",
+    "description": "함박스테이크, 파스타",
+    "link": "https://www.traversymedia.com/50-Projects-In-50-Days",
+    "image": "/images/1111.jpg"
+  }
+]
