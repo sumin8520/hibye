@@ -6,9 +6,12 @@ export default function RemoveBtn({ id }) {
   const removeTopic = async () => {
     const confirmed = confirm(`Are you sure to delete ${id}?`)
     if (confirmed) {
-      const res = await fetch(`http://localhost:3000/api/topics?id=${id}`, {
-        method: 'DELETE',
-      })
+      const res = await fetch(
+        `https://hibye-hazel.vercel.app/api/topics?id=${id}`,
+        {
+          method: 'DELETE',
+        }
+      )
       if (res.ok) {
         router.refresh()
       }
