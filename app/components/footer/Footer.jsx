@@ -93,6 +93,10 @@ const Footer = () => {
                 uuid
                 <span className="absolute bottom-0 left-0 w-[3px] h-full bg-transparent transform scale-y-0 transition-transform duration-200 group-hover:bg-[#3369e7]  group-hover:scale-y-100"></span>
               </li>
+              <li className="relative pl-2 cursor-pointer group">
+                mongoose
+                <span className="absolute bottom-0 left-0 w-[3px] h-full bg-transparent transform scale-y-0 transition-transform duration-200 group-hover:bg-[#3369e7]  group-hover:scale-y-100"></span>
+              </li>
             </ul>
           </div>
         </div>

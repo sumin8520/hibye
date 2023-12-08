@@ -1,6 +1,4 @@
 import Image from 'next/image'
-import { HiMiniInformationCircle } from 'react-icons/hi2'
-import { FaMapLocationDot } from 'react-icons/fa6'
 import { IoIosCall } from 'react-icons/io'
 import Link from 'next/link'
 
